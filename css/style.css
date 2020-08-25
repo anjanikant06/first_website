@@ -1,0 +1,25 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+
+}
+.first{
+  background-color: #66BFBF;
+  padding:20px;
+  position: relative;
+}
+.bottomcloud{
+  position: absolute;
+}
+.topcloud{
+  position: absolute;
+  right: 400px;
+}
+.text{
+  position: relative;
+  top:40px;
+
+}
